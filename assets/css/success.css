@@ -1,0 +1,12 @@
+.container {
+    width: 1400px;
+}
+
+.row h1 {
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    
+}

@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1400px;
+}
+
+.card {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
